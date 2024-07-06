@@ -14,9 +14,9 @@ Uses Math.random for game outcomes.
 Easy to Understand: Perfect for beginners looking to dive into game development.
 Quick Setup: Get it running in no time!
 
-How to Use Clone the repository: git clone https://github.com/Jasamcovjek/SimpleCrashGame.git
+How to Use Clone the repository: git clone https://github.com/Jasamcovjek/Crash-Casino-Game.git
 
-Navigate to the directory: cd SimpleCrashGameRun the game (details on how to run it depending on the setup).ContributingFeel free to fix, improve, or expand the game. 
+Navigate to the directory: cd Crash-Casino-Game the game (details on how to run it depending on the setup).ContributingFeel free to fix, improve, or expand the game. 
 Pull requests are welcome!
 Need Help?
 If you need any assistance, feel free to reach out. 
