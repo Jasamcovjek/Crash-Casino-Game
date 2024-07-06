@@ -19,6 +19,6 @@ Need Help?
 If you need any assistance, feel free to reach out. 
 I'm always happy to help (for free, of course).
 
-Contact me on Instagram or Telegram. ( https://instagram.com/zqyix & t.me/sulyic )
+Contact me on Instagram or Telegram. ( https://instagram.com/zqyix & https://t.me/sulyic )
 
 Enjoy the game! ✨
