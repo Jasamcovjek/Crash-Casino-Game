@@ -1,4 +1,5 @@
 🚀 Simple Crash GameWelcome to the Simplest Crash Game! 
+
 🎮AboutI created this game because I was bored, and surprisingly, it only took about 20 minutes to put together. 
 
 While it's simple, it showcases the basic mechanics of a crash game using Math.random.
